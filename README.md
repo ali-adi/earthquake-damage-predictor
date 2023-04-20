@@ -11,11 +11,11 @@ We aim to predict the level of damage to buildings caused by earthquakes based o
 
 Within this repository, you will find various data analysis and exploration techniques that can be used to identify key factors that contribute to earthquake damage. To gain a comprehensive understanding of the earthquake damage predictor, we recommend reviewing the source code in the following order:
 
-1. [Data Extraction](https://github.com/nicklimmm/movie-analysis/blob/main/data-extraction.ipynb)
-2. [Data Visualization](https://github.com/nicklimmm/movie-analysis/blob/main/data-visualization.ipynb)
-3. [Data Resampling and Splitting](https://github.com/nicklimmm/movie-analysis/blob/main/data-resampling-and-splitting.ipynb)
-4. [Logistic Regression](https://github.com/nicklimmm/movie-analysis/blob/main/logistic-regression.ipynb)
-5. [Neural Network](https://github.com/nicklimmm/movie-analysis/blob/main/neural-network.ipynb)
+1. [Data Extraction]()
+2. [Data Visualization]()
+3. [Data Resampling and Splitting]()
+4. [Logistic Regression](the ipynbs)
+5. [Neural Network]()
 
 ## Problem Formulation
 Problem: Which proposed hotel buildings are safe enough to withstand earthquakes?
