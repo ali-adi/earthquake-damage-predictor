@@ -38,6 +38,7 @@ Problem: Which proposed hotel buildings are safe enough to withstand earthquakes
 - It is successful in helping hotel developers to reconstruct after the earthquake<br>
 - The top-three best model performance is Extreme Gradient Boosting (XGB), Random Forest, and K-NN model<br>
 - Not guaranteedly accurate, there is limitation due to the lack of knowledge and other missing features or consideration to take into account<br>
+- From Exploratory Data Analysis, we found that only 9.64% building that has low Damage level, the rest is 56.89% building has Medium Damage level, and 33.47% building has High Damage level<br>
 
 ## Individual Contributions
 
