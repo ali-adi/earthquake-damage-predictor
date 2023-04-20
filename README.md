@@ -12,15 +12,6 @@ Within this repository, you will find various data analysis and exploration tech
 3. [Data Resampling and Splitting](https://github.com/nicklimmm/movie-analysis/blob/main/data-resampling-and-splitting.ipynb)
 4. [Logistic Regression](https://github.com/nicklimmm/movie-analysis/blob/main/logistic-regression.ipynb)
 5. [Neural Network](https://github.com/nicklimmm/movie-analysis/blob/main/neural-network.ipynb)
-  
-## Contributors
-
-- @jesdaniella - Neural Networks, Data Resampling, Data Extraction
-- @ali-ad - Logistic Regression,  Data Visualization, Data Extraction
-
-## Performance Metrics
-
-<b>F1-Score (Micro)</b> and <b> Cohen's Kappa Score. </b>
 
 ## Machine Learning Models
 
@@ -30,12 +21,21 @@ Within this repository, you will find various data analysis and exploration tech
 4. Extreme Gradient Boosting (XGB)
 5. K Nearest Neighbor
 
+## Performance Metrics
+
+<b>F1-Score (Micro)</b> and <b> Cohen's Kappa Score. </b>
+
 ## Conclusion
 
 - Geographic Level (3,2,1) are the utmost important features in predicting damage grade<br>
 - It is successful in helping hotel developers to reconstruct after the earthquake<br>
 - The top-three best model performance is Extreme Gradient Boosting (XGB), Random Forest, and K-NN model<br>
 - Not guaranteedly accurate, there is limitation due to the lack of knowledge and other missing features or consideration to take into account<br>
+
+## Individual Contributions
+
+- @jesdaniella - Neural Networks, Data Resampling, Data Extraction
+- @ali-ad - Logistic Regression,  Data Visualization, Data Extraction
 
 ## References
 
