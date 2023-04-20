@@ -1,5 +1,9 @@
 # SC1015 MiniProject - _Earthquake Damage Predictor_
 
+Tutorial Group : B125
+Lecturer : Dr Smitha
+Chosen Dataset : 
+
 ## About
 
 We aim to predict the level of damage to buildings caused by earthquakes based on aspects of building location and construction using dataset from 
@@ -12,6 +16,9 @@ Within this repository, you will find various data analysis and exploration tech
 3. [Data Resampling and Splitting](https://github.com/nicklimmm/movie-analysis/blob/main/data-resampling-and-splitting.ipynb)
 4. [Logistic Regression](https://github.com/nicklimmm/movie-analysis/blob/main/logistic-regression.ipynb)
 5. [Neural Network](https://github.com/nicklimmm/movie-analysis/blob/main/neural-network.ipynb)
+
+## Problem Formulation
+Problem: Which proposed hotel buildings are safe enough to withstand earthquakes?
 
 ## Machine Learning Models
 
