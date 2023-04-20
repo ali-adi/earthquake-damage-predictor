@@ -1,8 +1,8 @@
 # SC1015 MiniProject - _Earthquake Damage Predictor_
 
-Tutorial Group : B125
-Lecturer : Dr Smitha
-Chosen Dataset : 
+Tutorial Group : B125<br>
+Lecturer : Dr Smitha<br>
+Chosen Dataset : <br>
 
 ## About
 
