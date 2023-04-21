@@ -17,8 +17,17 @@ Within this repository, you will find various data analysis and exploration tech
 4. [Logistic Regression](the ipynbs)
 5. [Neural Network]()
 
+## The Dataset
+
+The data is used in a competition hosted by drivendata.com "Richter's Predictor: Modeling Earthquake Damage." A destructive earthquake of 7.8 magnitude occured in Nepal in April 2015. This earthquake claimed almost 9,000 lives and around $10 billion in damages. Millions of people lost everything and became homeless in a few moments.
+
+Reference: https://www.drivendata.org/competitions/57/nepal-earthquake/page/135/
+
 ## Problem Formulation
-Problem: Which proposed hotel buildings are safe enough to withstand earthquakes?
+Problem: Which proposed hotel buildings are safe enough to withstand earthquakes and which ones are not?
+
+The objective of this project is to classify hotels as either safe or dangerous in the case of an earthquake by finding the most optimal and relevant feature using machine learning models to be used as predictor.
+
 
 ## Machine Learning Models
 
@@ -34,16 +43,16 @@ Problem: Which proposed hotel buildings are safe enough to withstand earthquakes
 
 ## Conclusion
 
-- Geographic Level (3,2,1) are the utmost important features in predicting damage grade<br>
-- It is successful in helping hotel developers to reconstruct after the earthquake<br>
+- Geographic Level (3,2,1) are the first most important features in predicting damage grade and following that is the building's Age<br>
+- Based on our final test, we think that this will be successful in helping hotel developers to reconstruct after the earthquake<br>
 - The top-three best model performance is Extreme Gradient Boosting (XGB), Random Forest, and K-NN model<br>
-- Not guaranteedly accurate, there is limitation due to the lack of knowledge and other missing features or consideration to take into account<br>
+- This is not guaranteed in terms of accuracy since there are still limitations to our model such as lack of knowledge and other missing consideration that have not been taken into account<br>
 - From Exploratory Data Analysis, we found that only 9.64% building that has low Damage level, the rest is 56.89% building has Medium Damage level, and 33.47% building has High Damage level<br>
 
 ## Individual Contributions
 
-- @jesdaniella - Neural Networks, Data Resampling, Data Extraction
-- @ali-ad - Logistic Regression,  Data Visualization, Data Extraction
+- @jesdaniella -  Extreme Gradient Boosting, K-Nearest Neighbors, Random Forest
+- @ali-ad - Logistic Regression, Decision Tree, Data extraction
 
 ## References
 
