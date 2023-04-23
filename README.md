@@ -11,10 +11,9 @@ We aim to predict the most important features that affects the level of damage (
 Within this repository, you will find various data analysis and exploration techniques that can be used to identify key factors that contribute to earthquake damage. To gain a comprehensive understanding of the earthquake damage predictor, we recommend reviewing the source code in the following order:
 
 1. [Data Extraction]()
-2. [Data Visualization]()
-3. [Data Resampling and Splitting]()
-4. [Logistic Regression](the ipynbs)
-5. [Neural Network]()
+2. [Data Cleaning]()
+3. [Machine Learning]()
+4. [Conclusion](the ipynbs)
 
 ## The Dataset
 
