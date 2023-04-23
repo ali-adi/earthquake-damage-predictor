@@ -12,7 +12,7 @@ Within this repository, you will find various data analysis and exploration tech
 
 1. [Data Extraction](https://github.com/ali-adi/SC1015-Mini-Project/blob/main/Data%20Extraction%20and%20Preparation%20(1).ipynb)
 2. [Data Cleaning](https://github.com/ali-adi/SC1015-Mini-Project/blob/main/Data%20Cleaning%20(1).ipynb)
-3. [Exploratory Data Analysis]()
+3. [Exploratory Data Analysis](https://github.com/ali-adi/SC1015-Mini-Project/blob/main/Exploratory%20Data%20Analysis%20(1).ipynb)
 4. [Machine Learning](https://github.com/ali-adi/SC1015-Mini-Project/blob/main/Machine%20Learning%20Models%20(1).ipynb)
 5. [Conclusion](https://github.com/ali-adi/SC1015-Mini-Project/blob/main/Conclusion%20(2).ipynb)
 
