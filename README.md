@@ -23,9 +23,9 @@ The data is used in a competition hosted by drivendata.com "Richter's Predictor:
 Reference: https://www.drivendata.org/competitions/57/nepal-earthquake/page/135/
 
 ## Problem Formulation
-Problem: Which are the most important factors that will affect the building's earthquake stability?
+Problem: Which characteristics of buildings are most relevant in predicting whether it will withstand earthquakes?
 
-The objective of this project is to see how each buildings' features and variables affects their damage grade in the case of an earthquake and determine whch ones have the highest correlation to it. By finding the most important features, we can help developers during reconstruction so that they can apply corrections to their structure based on these features and minimize their risk of experiencing the same level of danger and damage in the case of another earthquake. We are going to do this by using 5 different machine learning models. 
+The objective of this project is to see how each buildings' features and variables affects their damage grade in the case of an earthquake and determine whch ones have the highest correlation to it. By finding the most important features, we can help developers during reconstruction so that they can apply corrections to their structure, especially on these characteristics, and minimize their risk of experiencing the same level of danger and damage in the case of another earthquake. We are going to do this by using 5 different machine learning models. 
 
 ## Machine Learning Models
 
