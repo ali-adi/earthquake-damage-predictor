@@ -13,7 +13,7 @@ Within this repository, you will find various data analysis and exploration tech
 1. [Data Extraction]()
 2. [Data Cleaning]()
 3. [Machine Learning]()
-4. [Conclusion](the ipynbs)
+4. [Conclusion](https://github.com/ali-adi/SC1015-Mini-Project/blob/main/Conclusion%20(2).ipynb)
 
 ## The Dataset
 
