@@ -11,7 +11,7 @@ We aim to predict the most important features that affects the level of damage (
 Within this repository, you will find various data analysis and exploration techniques that can be used to identify key factors that contribute to earthquake damage. To gain a comprehensive understanding of the earthquake damage predictor, we recommend reviewing the source code in the following order:
 
 1. [Data Extraction](https://github.com/ali-adi/SC1015-Mini-Project/blob/main/Data%20Extraction%20and%20Preparation%20(1).ipynb)
-2. [Data Cleaning]()
+2. [Data Cleaning](https://github.com/ali-adi/SC1015-Mini-Project/blob/main/Data%20Cleaning%20(1).ipynb)
 3. [Exploratory Data Analysis]()
 4. [Machine Learning](https://github.com/ali-adi/SC1015-Mini-Project/blob/main/Machine%20Learning%20Models%20(1).ipynb)
 5. [Conclusion](https://github.com/ali-adi/SC1015-Mini-Project/blob/main/Conclusion%20(2).ipynb)
