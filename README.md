@@ -46,6 +46,10 @@ The objective of this project is to see how each buildings' features and variabl
 - This is not guaranteed in terms of accuracy since there are still limitations to our model such as lack of knowledge and other missing consideration that have not been taken into account<br>
 - From Exploratory Data Analysis, we found that only 9.64% building that has low Damage level, the rest is 56.89% building has Medium Damage level, and 33.47% building has High Damage level<br>
 
+## Reccommendations
+
+As per our AI analysis, our main data driven insight is that foundation type and ground floor type are crucial factors that determine a building's strength during an earthquake. Therefore, we highly recommend construction companies in Nepal to prioritize these factors while designing and constructing buildings in earthquake-prone areas. Strong and sturdy foundations and ground floors can significantly improve a building's ability to withstand earthquakes, minimize damage, and ensure the safety of the occupants. Investing in high-quality construction materials and expert engineering will go a long way in creating safe and durable structures that can withstand earthquakes.
+
 ## Individual Contributions
 
 - @jesdaniella -  Extreme Gradient Boosting, Random Forest, Performance Metrics (F1- Scores)
