@@ -41,7 +41,7 @@ The objective of this project is to see how each buildings' features and variabl
 
 - Foundation and ground floor type are the most important features in predicting damage grade.<br>
 - We think that this will be successful in helping hotel developers to reconstruct after the earthquake<br>
-- The best model performance is Extreme Gradient Boosting (XGB)<br>
+- The best model performance is <b>Extreme Gradient Boosting</b> (XGB)<br>
 - This is not guaranteed in terms of accuracy since there are still limitations to our model such as lack of knowledge and other missing consideration that have not been taken into account<br>
 - From Exploratory Data Analysis, we found that only 9.64% building that has low Damage level, the rest is 56.89% building has Medium Damage level, and 33.47% building has High Damage level<br>
 
