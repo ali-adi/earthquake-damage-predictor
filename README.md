@@ -5,7 +5,7 @@ Instructor : Dr Smitha and Ong Chin Ann<br>
 
 ## About
 
-We aim to predict the level of damage to buildings caused by earthquakes based on aspects of building location and construction using dataset from 
+We aim to predict the most important features that affects the level of damage (damage grade) to buildings caused by earthquakes based on aspects of building location and construction using dataset from 
 [DRIVENDATA](https://www.drivendata.org/competitions/57/nepal-earthquake/page/135/) on the 2015 Gorkha earthquake in Nepal.<br>
 
 Within this repository, you will find various data analysis and exploration techniques that can be used to identify key factors that contribute to earthquake damage. To gain a comprehensive understanding of the earthquake damage predictor, we recommend reviewing the source code in the following order:
@@ -23,10 +23,9 @@ The data is used in a competition hosted by drivendata.com "Richter's Predictor:
 Reference: https://www.drivendata.org/competitions/57/nepal-earthquake/page/135/
 
 ## Problem Formulation
-Problem: Which proposed hotel buildings are safe enough to withstand earthquakes and which ones are not?
+Problem: Which are the most important factors that will affect the building's earthquake stability?
 
-The objective of this project is to classify hotels as either safe or dangerous in the case of an earthquake by finding the most optimal and relevant feature using machine learning models to be used as predictor.
-
+The objective of this project is to see how each buildings' features and variables affects their damage grade in the case of an earthquake and determine whch ones have the highest correlation to it. By finding the most important features, we can help developers during reconstruction so that they can apply corrections to their structure based on these features and minimize their risk of experiencing the same level of danger and damage in the case of another earthquake. We are going to do this by using 5 different machine learning models. 
 
 ## Machine Learning Models
 
@@ -34,23 +33,22 @@ The objective of this project is to classify hotels as either safe or dangerous 
 2. Decision Tree
 3. Random Forest
 4. Extreme Gradient Boosting (XGB)
-5. K Nearest Neighbor
 
 ## Performance Metrics
 
-<b>F1-Score (Micro)</b> and <b> Cohen's Kappa Score. </b>
+<b>F1-Score (Micro)</b> 
 
 ## Conclusion
 
-- Geographic Level (3,2,1) are the first most important features in predicting damage grade and following that is the building's Age<br>
-- Based on our final test, we think that this will be successful in helping hotel developers to reconstruct after the earthquake<br>
-- The top-three best model performance is Extreme Gradient Boosting (XGB), Random Forest, and K-NN model<br>
+- Foundation and ground floor type are the most important features in predicting damage grade.<br>
+- We think that this will be successful in helping hotel developers to reconstruct after the earthquake<br>
+- The best model performance is Extreme Gradient Boosting (XGB)<br>
 - This is not guaranteed in terms of accuracy since there are still limitations to our model such as lack of knowledge and other missing consideration that have not been taken into account<br>
 - From Exploratory Data Analysis, we found that only 9.64% building that has low Damage level, the rest is 56.89% building has Medium Damage level, and 33.47% building has High Damage level<br>
 
 ## Individual Contributions
 
-- @jesdaniella -  Extreme Gradient Boosting, K-Nearest Neighbors, Random Forest
+- @jesdaniella -  Extreme Gradient Boosting, Random Forest, Performance Metrics (F1- Scores)
 - @ali-ad - Logistic Regression, Decision Tree, Data extraction
 
 ## References
