@@ -1,4 +1,4 @@
-# SC1015 MiniProject - _Earthquake Damage Predictor_
+# _Earthquake Damage Predictor_
 
 Tutorial Group : B125<br>
 Instructor : Dr Smitha and Ong Chin Ann<br>
